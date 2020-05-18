@@ -2,3 +2,7 @@ virtual/
 *.pyc
 
 pycache/
+
+requirements.txt
+
+requirements.txt

@@ -19,7 +19,7 @@ cupshelpers==1.0
 defer==1.0.6
 distlib==0.3.0
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0
+Django==3.0.3
 django-bootstrap3==12.1.0
 django-bootstrap4==1.1.1
 dnspython==1.16.0
